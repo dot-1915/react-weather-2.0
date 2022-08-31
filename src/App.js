@@ -9,7 +9,7 @@ export default function App() {
         <Weather defaultCity="Vancouver" />
 
         <footer>
-          This App was Coded by Deanna Roney and is
+          This App was Coded by Deanna Roney and is {""}
           <a
             href="https://github.com/dot-1915/react-weather-2.0"
             target="_blank"
