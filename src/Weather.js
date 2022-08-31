@@ -52,11 +52,7 @@ export default function Weather(props) {
               />
             </div>
             <div className="col-3">
-              <input
-                type="submit"
-                value="Search"
-                className="btn btn-secondary"
-              />
+              <input type="submit" value="Search" className="btn btn-light" />
             </div>
           </div>
         </form>
